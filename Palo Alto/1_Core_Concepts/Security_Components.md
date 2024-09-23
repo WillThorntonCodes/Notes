@@ -1,0 +1,32 @@
+Palo Alto Networks portfolio is organized into three offerings
+- Strata
+  - Enterprise security
+  - Prevents attacks with industry leading network security suite
+    - Machine Learning NGFWs
+      - PA-Series (physical firewalls)
+        - PA-220
+        - PA-440 and PA-450
+        - PA-800
+        - PA-3200
+        - PA-5200
+        - PA-7000
+      - VM-Series
+        - VM-50
+        - VM-100
+        - VM-300
+        - VM-500
+        - VM-700
+  VM-Series firewalls support VMs in:
+    - AWS
+    - Cisco ACI
+    - Citrix NetScaler SDX
+    - GCP
+    - KVM
+    - Azure and Hyper-V
+    - OpenStack
+    - VMware
+    - 
+- Prisma
+  - Cloud security
+- Cortex
+  - Security operations
