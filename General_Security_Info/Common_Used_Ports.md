@@ -1,0 +1,15 @@
+TCP
+- 22 = SFTP
+- 21 = FTP 
+- 23 = Telnet
+- 139, 445 = SMB
+- 88 = Kerberos 
+- 3389 = RDP
+- 1521, 1630 = Oracle DB
+- 443 = HTTPS
+- 80 = HTTP
+- 53 = DNS
+- 25 = SMTP
+- 465 = SMTPS
+- 123 = NTP
+- 1812, 1813 = RADIUS
